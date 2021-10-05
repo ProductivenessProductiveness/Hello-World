@@ -1,5 +1,5 @@
 # Hello-World
-I'm newbie.
+I'm 
 
 
 // Program to Calculate Average Using Arrays
